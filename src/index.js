@@ -29,4 +29,4 @@ odinImage.classList.add('odin-logo');
 imageContainer.appendChild(odinImage);
 document.body.appendChild(imageContainer);
 
-console.log('✅ Webpack está funcionando correctamente!');
+console.log('Webpack funcionando correctamente');
